@@ -1,4 +1,4 @@
-# eCourts Scraper Frontend# Welcome to React Router!
+# eCourts Scraper Frontend
 
 A modern React frontend built with React Router v7 and Tailwind CSS for the eCourts scraper application.A modern, production-ready template for building full-stack React applications using React Router.
 

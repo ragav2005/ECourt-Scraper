@@ -8,7 +8,7 @@ FastAPI + React application that automates structured retrieval, parsing, and vi
 
 This project simulates a mini vertical product: a user supplies jurisdiction + case identifiers, the system orchestrates a multi‑step flow against the eCourts public interface, normalizes heterogeneous HTML fragments into a consistent JSON schema, logs structured query events, and presents an analytical dashboard (success rates, volume, historical view).
 
-**Key Engineering Themes:**
+**Key Themes:**
 
 - Stateful scraping with token & cookie continuity
 - HTML resiliency (multiple defensive parsing passes)
